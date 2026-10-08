@@ -76,3 +76,5 @@ The original source code, design, and branding of VIZ Patch may not be copied, r
 This project is independently developed and is not affiliated with or endorsed by Avee Player.
 
 Third-party libraries and other third-party materials remain subject to their respective licenses and rights.
+
+For full copyright and usage terms, see the [LICENSE](LICENSE) file.
