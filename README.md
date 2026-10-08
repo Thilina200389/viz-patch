@@ -64,3 +64,15 @@ Website: https://thilina200389.github.io/viz-patch/
 If you find VIZ Patch useful, you can support its development:
 
 https://paypal.me/thilina89
+
+## Copyright & Usage
+
+Copyright © 2026 Thilina Sandakelum (Thilii Music). All rights reserved.
+
+VIZ Patch is free to use for replacing image resources in Avee Player `.viz` templates.
+
+The original source code, design, and branding of VIZ Patch may not be copied, redistributed, modified, or republished without prior written permission from the copyright owner.
+
+This project is independently developed and is not affiliated with or endorsed by Avee Player.
+
+Third-party libraries and other third-party materials remain subject to their respective licenses and rights.
