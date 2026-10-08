@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://thilina200389.github.io/viz-patch/sitemap.xml
